@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Get to know me just a little bit more...
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I am a tech enthusiast (other people sometimes refer to this as a geek), and hope to be closely involved with engineering / tech-entrepreneurship for the years to come.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Currently, I am upskilling my profile with additional computer science and business knowledge through a graduate degree in Information Systems from New York University. At NYU, I seek to establish greater expertise in the field of scalable distributed systems, machine learning, and Artificial Intelligence. For my entrepreneurial ambitions, I also seek to acquire an understanding of Finance, Managerial Economics, Strategy, Entrepreneurship, and Emerging Technologies.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Previously, I was a Software Development professional with 5.5+ years of exposure in India’s leading online retail company - Flipkart -  where I leveraged competency in distributed systems, service-oriented architecture, and Java backend development to develop, optimize, manage and support gateway routing API platform, user-session management platform, audit data management platform, user-experience API definitions, A/B platform and reverse-geocoding system.

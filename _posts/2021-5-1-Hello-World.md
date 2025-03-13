@@ -2,11 +2,13 @@
 layout: post
 title: Get to know me just a little bit more...
 ---
+### About Me
 
-I am a tech enthusiast (other people sometimes refer to this as a geek), and hope to be closely involved with engineering / tech-entrepreneurship for the years to come.
+I'm **Shubham Srivastava**, a **Senior Software Engineer** with 8+ years of experience in **backend systems**, **distributed architectures**, and **high-performance engineering**. I've worked at **Bloomberg** and **Flipkart**, building scalable platforms that power millions of users.
 
-Currently, I am up-skilling my profile with additional computer science and business knowledge through a graduate degree in Information Systems from the New York University. At NYU, I seek to establish greater expertise in the field of scalable distributed systems, machine learning, and Artificial Intelligence. For my entrepreneurial ambitions, I also seek to acquire an understanding of Finance, Managerial Economics, Strategy, Entrepreneurship, and Emerging Technologies.
+I completed my graduate studies at **NYU - Courant and Stern**, where I deepened my expertise in **Computer Science** and **Finance** — a perfect alignment with my long-term goal of bridging **technology** and **business growth**.
 
-Previously, I was a Software Development professional with 5.5+ years of exposure in India’s leading online retail company - Flipkart -  where I leveraged competency in distributed systems, service-oriented architecture, and Java backend development to develop, optimize, manage and support gateway routing API platform, user-session management platform, audit data management platform, user-experience API definitions, A/B platform and reverse-geocoding system.
+Passionate about **tech debt**, **system design**, and **machine learning**, I enjoy combining technical expertise with strategic thinking. Outside of work, you'll find me at the gym, exploring new ideas, or connecting with friends and family.
+
 
 ---

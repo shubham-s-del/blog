@@ -1,18 +1,67 @@
----
-layout: default
----
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shubham Srivastava | Blog & Portfolio</title>
+  <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            line-height: 1.6; 
+            background-color: #f9f9f9; 
+            color: #333; 
+            margin: 0; 
+            padding: 0; 
+        }
+        .container { 
+            max-width: 900px; 
+            margin: 50px auto; 
+            background-color: #fff; 
+            padding: 20px; 
+            border-radius: 12px; 
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); 
+        }
+        h1, h2 { color: #0056b3; }
+        .section { margin-bottom: 40px; }
+        .bio p, .resume p { margin: 5px 0; }
+        .resume-item { margin-bottom: 20px; }
+        .links a { color: #0078e7; text-decoration: none; font-weight: bold; }
+        .links a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+<div class="container">
+  <h1>Shubham Srivastava</h1>
+  <div class="bio section">
+    <h2>About Me</h2>
+    <p>I'm <b>Shubham Srivastava</b>, a <b>Senior Software Engineer</b> with 8+ years of experience in <b>backend systems</b>, <b>distributed architectures</b>, and <b>high-performance engineering</b>. </p>
+    <p>I've worked at <b>Bloomberg</b> and <b>Flipkart</b>, building scalable platforms that power millions of users. </p>
+    <p>I completed my graduate studies at <b>NYU - Courant and Stern</b>, where I upskilled in <b>Computer Science</b> and <b>Finance</b> — aligning with my long-term career goals of bridging <b>technology</b> and <b>business growth</b>.</p>
+    <p>Passionate about <b>tech debt</b>, <b>system design</b>, and <b>machine learning</b>, I enjoy combining technical expertise with strategic thinking. </p>
+    <p>Outside of work, you'll find me at the gym, exploring new ideas, or connecting with friends and family.</p>
+  </div>
+  <div class="resume section">
+    <h2>Resume</h2>
+    <div class="resume-item">
+      <h3>Senior Software Engineer - Bloomberg LP</h3>
+      <p>Sep 2022 - Present</p>
+      <p>Developed support for intermediating brokers, defined SLOs for backend systems, improved MBS latency by 60%, and contributed to impactful Bloomberg functions like RBYI and Smartbot.</p>
+    </div>
+    <div class="resume-item">
+      <h3>Senior Software Engineer - Flipkart</h3>
+      <p>Oct 2020 - Jan 2021</p>
+      <p>Redesigned user-facing gateway routing for 200M+ users and collaborated with 20+ teams to improve system scalability and performance.</p>
+    </div>
+    <div class="resume-item">
+      <h3>Education</h3>
+      <p>MS in Information Systems - <b>New York University (Courant & Stern)</b></p>
+      <p>Bachelors in ICT - <b>Dhirubhai Ambani Institute</b></p>
+    </div>
+  </div>
+  <div class="links section">
+    <h2>Links</h2>
+    <p><a href="https://www.linkedin.com/in/shubham-srivastava-us" target="_blank">LinkedIn</a> | <a href="http://github.com/shubham-s-del" target="_blank">GitHub</a></p>
+  </div>
 </div>
+</body>
+</html>
